@@ -10,9 +10,7 @@ Welcome to **My HTML Cheat Sheet**! This project is where it all began. This is 
 - [License](#license)
 
 ## Installation
-To get started, follow these steps:
-1. (coming soon)
-2. (coming soon)
+(coming soon)
 
 ## Usage
 Here's how you can view this project:
