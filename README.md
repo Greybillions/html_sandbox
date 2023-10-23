@@ -1,7 +1,7 @@
 ## HTML SANDBOX
-# HTML Project
+# HTML CheatSheet
 
-Welcome to **HTML PROJECT**! This project is where it all began.
+Welcome to **My HTML Cheat Sheet**! This project is where it all began. This is just my HTMl CheatSheet.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -16,7 +16,7 @@ To get started, follow these steps:
 
 ## Usage
 Here's how you can view this project:
-- Open your browser and go to `http://localhost:(coming soon)`
+(coming soon)
 
 ## Contributing
 We welcome contributions! To contribute:
