@@ -13,7 +13,6 @@ Welcome to **My HTML Cheat Sheet**! This project is where it all began. This is 
 (coming soon)
 
 ## Usage
-Here's how you can view this project:
 (coming soon)
 
 ## Contributing
